@@ -18,19 +18,19 @@
       "developerName": "Example Developer",
       "subtitle": "Mod",
       "localizedDescription": "Mega Mod",
-      "iconURL": "https://i.imgur.com/PgpyVf5.png",
+      "iconURL": "https://i.imgur.com/71hXOU5.png",
       "tintColor": "#95c23c",
       "category": "games",
       "screenshots": [],
       "versions": [
         {
-          "version": "1.44.0",
-          "date": "2026-02-20T14:26:00+03:00",
-          "localizedDescription": null,
           "downloadURL": "https://ipaomtk.com/last-day-on-earth-survival-ipa/",
           "size": 1009400000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "version": "1.44.0",
+          "buildVersion": "1",
+          "date": "2026-02-20T11:40:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": "13.0"
         }
       ],
       "appPermissions": {
