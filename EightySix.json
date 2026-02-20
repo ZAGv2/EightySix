@@ -1,0 +1,52 @@
+{
+  "name": "EightySix",
+  "subtitle": "A Warehouse Of Games",
+  "description": "Still Working on it",
+  "iconURL": "https://i.imgur.com/RbrOEgv.jpeg",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#",
+  "featuredApps": [
+    "zombie.survival.craft.z"
+  ],
+  "headerURL": "https://i.imgur.com/n9gUxnp.jpeg",
+  "apps": [
+    {
+      "name": "Last Day On Earth: Survival ",
+      "bundleIdentifier": "zombie.survival.craft.z",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "Mod",
+      "localizedDescription": "Mega Mod",
+      "iconURL": "https://i.imgur.com/PgpyVf5.png",
+      "tintColor": "#95c23c",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://ipaomtk.com/last-day-on-earth-survival-ipa/",
+          "size": 1009400000,
+          "version": "1.44.0",
+          "buildVersion": null,
+          "date": "2026-02-20T14:26:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "Please change 'Camera Usage Description' with IOS Native UI Kit Editor Settings",
+          "NSLocationWhenInUseUsageDescription": "LastDayOnEarthSurvival location use.",
+          "NSMicrophoneUsageDescription": "Please change 'Microphone Usage Description' with IOS Native UI Kit Editor Settings",
+          "NSPhotoLibraryAddUsageDescription": "Please change 'Photo Library Add Usage Description' with IOS Native UI Kit Editor Settings",
+          "NSPhotoLibraryUsageDescription": "We need to access photos library to allow users manually pick images meant to be sent as attachment for help and support reasons.",
+          "NSUserTrackingUsageDescription": "Due to the security policy update, we cannot send you gifts and offers without your permission. If you want to continue receiving them, please allow the application to use partners' information. In return, we will try to send you only the most important and attractive content!"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
