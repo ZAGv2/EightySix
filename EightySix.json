@@ -5,7 +5,7 @@
   "iconURL": "https://i.imgur.com/RbrOEgv.jpeg",
   "website": "https://altstudio.app",
   "patreonURL": "https://patreon.com/altstudio",
-  "tintColor": "#",
+  "tintColor": "#cd56e2",
   "featuredApps": [
     "zombie.survival.craft.z"
   ],
@@ -24,12 +24,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://ipaomtk.com/last-day-on-earth-survival-ipa/",
-          "size": 1009400000,
           "version": "1.44.0",
-          "buildVersion": null,
           "date": "2026-02-20T14:26:00+03:00",
           "localizedDescription": null,
+          "downloadURL": "https://ipaomtk.com/last-day-on-earth-survival-ipa/",
+          "size": 1009400000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
